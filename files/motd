@@ -1,0 +1,8 @@
+╔══════════════════════════════════════╗
+  ║       Welcome to your Termux         ║
+  ║   Managed via github.com/DarkPlayz98/        ║
+  ║          termux-setup                ║
+  ╚══════════════════════════════════════╝
+
+  Update anytime:
+  cd termux-setup && git pull && bash update.sh

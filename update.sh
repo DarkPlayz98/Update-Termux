@@ -16,7 +16,7 @@ banner() {
   echo "   ║ ║╣ ╠╦╝║║║║ ║╔╩╦╝  ╚═╗║╣  ║ ║ ║╠═╝"
   echo "   ╩ ╚═╝╩╚═╩ ╩╚═╝╩ ╚═  ╚═╝╚═╝ ╩ ╚═╝╩  "
   echo -e "${N}"
-  echo -e "${W}  Termux Updater — github.com/YOU/termux-setup${N}"
+  echo -e "${W}  Termux Updater — github.com/DarkPlayz98/termux-setup${N}"
   echo -e "  ─────────────────────────────────────────"
   echo ""
 }
